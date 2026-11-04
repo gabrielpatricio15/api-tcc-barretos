@@ -3,3 +3,4 @@ pandas
 Flask-Cors
 gdown
 gunicorn
+Flask-Caching
